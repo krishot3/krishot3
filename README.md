@@ -1,4 +1,10 @@
-Hi 👋 My name is Matej Kris ===========================  Software Automation Tester --------------------------  I specialise in software automation testing and have expertise in key technologies such as Cypress, TypeScript, Postman and Git. My skills extend to the design and implementation of effective automated testing solutions, and my fluency in English enables me to effectively facilitate communication across diverse teams.  * 🌍  I'm based in Trnava, Slovakia
+Hi 👋 My name is Matej Kris 
+===========================  
+Software Automation Tester 
+--------------------------  
+I specialise in software automation testing and have expertise in key technologies such as Cypress, TypeScript, Postman and Git. My skills extend to the design and implementation of effective automated testing solutions, and my fluency in English enables me to effectively facilitate communication across diverse teams.  
+
+🌍  I'm based in Trnava, Slovakia
 
 ### Skills  
 
@@ -7,6 +13,4 @@ Hi 👋 My name is Matej Kris ===========================  Software Automation T
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/krishot3"><img src="https://github-readme-stats.vercel.app/api?username=krishot3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="krishot3's GitHub stats" /></a>
 <a href="https://github.com/krishot3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishot3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
